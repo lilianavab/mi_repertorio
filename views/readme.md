@@ -1,0 +1,1 @@
+ver las imagenes del CRUD y Base de Datos en la carpeta public/img
